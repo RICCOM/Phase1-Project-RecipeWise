@@ -1,0 +1,162 @@
+{
+    "recipes": [
+      {
+        "id": 1,
+        "title": "Spaghetti Carbonara",
+        "servings": 4,
+        "description": "Classic Italian pasta dish with creamy sauce",
+        "ingredients": [
+          "8 ounces spaghetti",
+          "6 slices bacon",
+          "2 eggs",
+          "1/2 cup grated Parmesan cheese",
+          "Salt and pepper to taste"
+        ],
+        "instructions": "1. Cook spaghetti according to package instructions. \n2. In a large skillet, cook bacon until crispy. Remove bacon from skillet and crumble. \n3. In a bowl, whisk together eggs and Parmesan cheese. \n4. Drain spaghetti and add to skillet with bacon grease. Toss to coat. \n5. Remove skillet from heat and quickly stir in egg mixture. \n6. Season with salt and pepper. Serve immediately."
+      },
+      {
+        "id": 2,
+        "title": "Chicken Stir-Fry",
+        "servings": 4,
+        "description": "Quick and easy stir-fry with chicken and vegetables",
+        "ingredients": [
+          "1 lb boneless, skinless chicken breasts, thinly sliced",
+          "2 tablespoons soy sauce",
+          "1 tablespoon sesame oil",
+          "1 tablespoon olive oil",
+          "2 cloves garlic, minced",
+          "1 onion, sliced",
+          "2 cups mixed vegetables (bell peppers, broccoli, carrots, etc.)",
+          "Cooked rice, for serving"
+        ],
+        "instructions": "1. In a small bowl, mix together soy sauce and sesame oil. Set aside. \n2. In a large skillet or wok, heat olive oil over medium-high heat. \n3. Add garlic and onion to skillet and cook until softened. \n4. Add chicken to skillet and cook until browned and cooked through. \n5. Add mixed vegetables to skillet and cook until tender-crisp. \n6. Stir in soy sauce mixture and cook for an additional 2-3 minutes. \n7. Serve hot over cooked rice."
+      },
+      {
+        "id": 3,
+        "title": "Caprese Salad",
+        "servings": 2,
+        "description": "Simple and refreshing salad with tomatoes, mozzarella, and basil",
+        "ingredients": [
+          "2 large tomatoes, sliced",
+          "1 ball fresh mozzarella cheese, sliced",
+          "Handful of fresh basil leaves",
+          "2 tablespoons balsamic vinegar",
+          "2 tablespoons extra virgin olive oil",
+          "Salt and pepper to taste"
+        ],
+        "instructions": "1. Arrange tomato and mozzarella slices on a plate, alternating and overlapping. \n2. Scatter fresh basil leaves over the top. \n3. Drizzle balsamic vinegar and olive oil over the salad. \n4. Season with salt and pepper to taste. \n5. Serve immediately."
+      },
+      {
+        "id": 4,
+        "title": "Grilled Cheese Sandwich",
+        "servings": 1,
+        "description": "Classic comfort food with melted cheese between slices of bread",
+        "ingredients": [
+          "2 slices bread",
+          "2 slices cheddar cheese",
+          "1 tablespoon butter"
+        ],
+        "instructions": "1. Preheat a skillet over medium heat. \n2. Butter one side of each slice of bread. \n3. Place one slice of bread, butter side down, in the skillet. \n4. Top with cheese slices and the other slice of bread, butter side up. \n5. Cook until bread is golden brown and cheese is melted, about 3-4 minutes per side. \n6. Serve hot."
+      },
+      {
+        "id": 5,
+        "title": "Greek Salad",
+        "servings": 2,
+        "description": "Fresh and colorful salad with tomatoes, cucumbers, olives, and feta cheese",
+        "ingredients": [
+          "2 large tomatoes, diced",
+          "1 cucumber, diced",
+          "1/2 red onion, thinly sliced",
+          "1/2 cup Kalamata olives",
+          "4 ounces feta cheese, crumbled",
+          "2 tablespoons red wine vinegar",
+          "2 tablespoons extra virgin olive oil",
+          "1 teaspoon dried oregano",
+          "Salt and pepper to taste"
+        ],
+        "instructions": "1. In a large bowl, combine tomatoes, cucumber, red onion, olives, and feta cheese. \n2. In a small bowl, whisk together red wine vinegar, olive oil, oregano, salt, and pepper. \n3. Drizzle dressing over salad and toss to coat. \n4. Serve immediately."
+      },
+      {
+        "id": 6,
+        "title": "Avocado Toast",
+        "servings": 1,
+        "description": "Healthy and delicious toast with mashed avocado",
+        "ingredients": [
+          "1 ripe avocado",
+          "2 slices whole grain bread, toasted",
+          "1 tablespoon lemon juice",
+          "Salt and pepper to taste",
+          "Red pepper flakes (optional)"
+        ],
+        "instructions": "1. Cut avocado in half, remove pit, and scoop flesh into a bowl. \n2. Mash avocado with a fork until smooth. \n3. Stir in lemon juice, salt, and pepper. \n4. Spread mashed avocado evenly onto toasted bread slices. \n5. Sprinkle with red pepper flakes if desired. \n6. Serve immediately."
+      },
+      {
+        "id": 7,
+        "title": "Vegetable Soup",
+        "servings": 4,
+        "description": "Hearty and comforting soup with a variety of vegetables",
+        "ingredients": [
+          "2 tablespoons olive oil",
+          "1 onion, chopped",
+          "2 cloves garlic, minced",
+          "2 carrots, diced",
+          "2 stalks celery, diced",
+          "1 zucchini, diced",
+          "1 yellow squash, diced",
+          "6 cups vegetable broth",
+          "1 can diced tomatoes",
+          "1 teaspoon dried thyme",
+          "Salt and pepper to taste"
+        ],
+        "instructions": "1. In a large pot, heat olive oil over medium heat. \n2. Add onion and garlic to pot and cook until softened. \n3. Add carrots, celery, zucchini, and yellow squash to pot and cook for 5 minutes. \n4. Stir in vegetable broth, diced tomatoes, and dried thyme. \n5. Bring soup to a boil, then reduce heat and simmer for 20-25 minutes. \n6. Season with salt and pepper to taste. \n7. Serve hot."
+      },
+      {
+        "id": 8,
+        "title": "Peanut Butter Banana Smoothie",
+        "servings": 2,
+        "description": "Creamy and nutritious smoothie with peanut butter and banana",
+        "ingredients": [
+          "2 ripe bananas",
+          "2 tablespoons peanut butter",
+          "1 cup milk (dairy or plant-based)",
+          "1/2 cup Greek yogurt",
+          "1 tablespoon honey (optional)",
+          "Ice cubes"
+        ],
+        "instructions": "1. Peel bananas and place in a blender. \n2. Add peanut butter, milk, Greek yogurt, and honey to blender. \n3. Add a handful of ice cubes. \n4. Blend until smooth and creamy. \n5. Serve immediately."
+      },
+      {
+        "id": 9,
+        "title": "Omelette",
+        "servings": 1,
+        "description": "Fluffy and customizable omelette made with eggs",
+        "ingredients": [
+          "2 eggs",
+          "2 tablespoons milk",
+          "Salt and pepper to taste",
+          "Fillings of your choice (cheese, vegetables, ham, etc.)",
+          "1 tablespoon butter"
+        ],
+        "instructions": "1. In a small bowl, beat eggs with milk until well combined. Season with salt and pepper. \n2. Heat butter in a skillet over medium heat. \n3. Pour egg mixture into skillet and cook until edges begin to set. \n4. Using a spatula, gently lift edges of omelette and tilt skillet to allow uncooked egg to flow underneath. \n5. Once top is mostly set, add fillings of your choice to one half of the omelette. \n6. Fold other half of omelette over fillings and cook for another minute or until cheese is melted (if using). \n7. Slide omelette onto a plate and serve hot."
+      },
+      {
+        "id": 10,
+        "title": "Chocolate Chip Cookies",
+        "servings": 24,
+        "description": "Classic homemade cookies loaded with chocolate chips",
+        "ingredients": [
+          "1 cup unsalted butter, softened",
+          "3/4 cup granulated sugar",
+          "3/4 cup packed brown sugar",
+          "2 large eggs",
+          "1 teaspoon vanilla extract",
+          "2 1/4 cups all-purpose flour",
+          "1 teaspoon baking soda",
+          "1/2 teaspoon salt",
+          "2 cups semisweet chocolate chips"
+        ],
+        "instructions": "1. Preheat oven to 375°F (190°C) and line baking sheets with parchment paper. \n2. In a large bowl, cream together butter, granulated sugar, and brown sugar until light and fluffy. \n3. Beat in eggs one at a time, then stir in vanilla extract. \n4. In a separate bowl, whisk together flour, baking soda, and salt. Gradually add dry ingredients to wet ingredients and mix until just combined. \n5. Fold in chocolate chips. \n6. Drop rounded tablespoons of dough onto prepared baking sheets. \n7. Bake for 9-11 minutes or until edges are golden brown. \n8. Allow cookies to cool on baking sheets for 5 minutes before transferring to wire racks to cool completely."
+      }
+    ]
+  }
+  

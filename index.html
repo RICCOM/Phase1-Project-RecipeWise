@@ -1,0 +1,75 @@
+
+ <!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Recipe App</title>
+  <link rel="stylesheet" href="index.css">
+</head>
+<body>
+  <!-- Login Component --><nav>
+    <div><header>RecipeWise</header></div>
+  <div id="login-component">
+    <!-- Login form will go here -->
+    <h2>Login</h2>
+    <input type="text" id="username" placeholder="Username">
+    <input type="password" id="password" placeholder="Password">
+    <button id="login-btn">Login</button>
+  </div>
+</nav>
+  <!-- Recipe Component -->
+  <div id="recipe-component">
+    <!-- Recipe details will go here -->
+    <h2 id="recipe-title">Recipe Title</h2>
+    <img src="assets/recipe1.jpg" alt="Recipe Image" id="recipe-image">
+    <p id="recipe-description">Recipe Description</p>
+    <ul id="recipe-ingredients">
+      <!-- Ingredients will be added dynamically -->
+    </ul>
+    <p id="recipe-instructions">Recipe Instructions</p>
+    <div id="rating-section">
+      <button id="like-btn">Like</button>
+      <button id="rate-btn">Rate</button>
+    </div>
+  </div>
+
+  <!-- Recipe List Component -->
+  <div id="recipe-list-component">
+    <!-- Recipe list will go here -->
+    <h2>Worlds' Best Recipes</h2>
+    <ul id="recipe-list">
+      <!-- Recipe items will be added dynamically -->
+    </ul>
+  </div>
+
+  <!-- Add Recipe Component -->
+  <div id="add-recipe-component">
+    <!-- Add recipe form will go here -->
+    <h2>Make Your Recipe</h2>
+    <input type="text" id="recipe-title-input" placeholder="Recipe Title">
+    <textarea id="recipe-description-input" placeholder="Recipe Description"></textarea>
+    <input type="text" id="ingredient-input" placeholder="Ingredient">
+    <button id="add-ingredient-btn">Add Ingredient</button>
+    <ul id="ingredient-list">
+      <!-- Ingredients will be added dynamically -->
+    </ul>
+    <textarea id="instruction-input" placeholder="Instructions"></textarea>
+    <button id="add-recipe-btn">Make Your Recipe</button>
+  </div>
+
+  <!-- Delete Recipe Component -->
+  <div id="delete-recipe-component">
+    <!-- Delete recipe section will go here -->
+    <h2>Delete Your Recipe</h2>
+    <select id="recipe-select">
+      <!-- Recipe options will be added dynamically -->
+    </select>
+    <button id="delete-recipe-btn">Delete Your Recipe</button>
+  </div>
+
+  <script src="index.js"></script>
+</body>
+</html> --
+
+
